@@ -22,6 +22,7 @@ http://localhost:3000
 
 And to test built version in a container locally
 
+Blah.
 ```bash
 gulp docker
 ```
